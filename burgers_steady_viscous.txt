@@ -1,0 +1,16 @@
+Wed Apr 29 08:52:31 2020
+
+burgers_steady_viscous_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve the steady 1d Burgers equation.
+
+burgers_steady_viscous:
+  FENICS/Python version
+  Number of elements is 16
+  Viscosity set to 0.1
+Graphics saved as "burgers_steady_viscous.png"
+
+burgers_steady_viscous_test:
+  Normal end of execution.
+Wed Apr 29 08:52:31 2020
