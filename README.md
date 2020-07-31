@@ -10,7 +10,9 @@ fenicsproject run
 python3 burgers_steady_viscous.py
 exit
 ```
+## Author:
 
+Sourangshu Ghosh
 
 ## Reference:
 Hans Petter Langtangen, Anders Logg,
