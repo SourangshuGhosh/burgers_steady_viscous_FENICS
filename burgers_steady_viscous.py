@@ -21,11 +21,11 @@ def burgers_steady_viscous ( e_num, nu ):
 #
 #  Modified:
 #
-#    20 October 2018
+#    By Sourangshu Ghosh
 #
 #  Author:
 #
-#    John Burkardt
+#    Sourangshu Ghosh
 #
 #  Parameters:
 #
@@ -122,7 +122,7 @@ def burgers_steady_viscous_test ( ):
 #
 #  Modified:
 #
-#    19 October 2018
+#    by Sourangshu Ghosh
 #
 #  Author:
 #
